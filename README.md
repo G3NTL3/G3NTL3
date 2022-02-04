@@ -1,7 +1,3 @@
-### Hi there 👋, my name is Nilesh
-#### I am Student / Learner
-I'm Nilesh Bhardwaj from India, As of now I'm a student and I try to learning everything that I come by and a Streamer by passion and I have huge Interest in Cyber Security.
-
 <h1 align="center">Hi 👋, I'm Nilesh Bhardwaj</h1>
 <h3 align="center">I'm a Cyber Security Student from India.</h3>
 <h4 align="center">I'm Nilesh Bhardwaj from India, As of now I'm a student and I try to learning everything that I come by and a Streamer by passion and I have huge Interest in Cyber Security.</h4>
