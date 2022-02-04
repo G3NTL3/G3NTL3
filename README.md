@@ -5,9 +5,8 @@ I'm Nilesh Bhardwaj from India, As of now I'm a student and I try to learning ev
 <h1 align="center">Hi 👋, I'm Nilesh Bhardwaj</h1>
 <h3 align="center">I'm a Cyber Security Student from India.</h3>
 <h4 align="center">I'm Nilesh Bhardwaj from India, As of now I'm a student and I try to learning everything that I come by and a Streamer by passion and I have huge Interest in Cyber Security.</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g3ntl3&label=Profile%20views&color=ff7b00&style=flat" alt="g3ntl3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g3ntl3" alt="g3ntl3" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=g3ntl3&label=Profile%20views&color=ff7b00&style=flat" alt="g3ntl3" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gentlewhy" target="blank"><img src="https://img.shields.io/twitter/follow/gentlewhy?logo=twitter&style=for-the-badge" alt="gentlewhy" /></a> </p>
 
