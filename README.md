@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g3ntl3&label=Profile%20views&color=ff7b00&style=flat" alt="g3ntl3" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gentlewhy" target="blank"><img src="https://img.shields.io/twitter/follow/gentlewhy?logo=twitter&style=for-the-badge" alt="gentlewhy" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
